@@ -9,8 +9,6 @@
     <?php
     
     include ('utils/queries.php');
-
-    prettyPrint($questionsClean);
     
     ?>
 </body>
